@@ -2,7 +2,7 @@
  * implementation_player_turns.c
  *
  *  Created on: 7 Mar 2017
- *      Author: Admin
+ *      Author: SK
  */
 #include<stdio.h>
 #include<time.h>
